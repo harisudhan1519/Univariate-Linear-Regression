@@ -16,10 +16,6 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ## Program
 ```
 
-Program to QR decomposition using the Gram-Schmidt method
-Developed by: Kishore.V
-RegisterNumber: 24901341
-
 import numpy as np
 import matplotlib.pyplot as plt
 x = np.array([0,1,2,3,4,5,6,7,8,9])
